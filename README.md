@@ -5,10 +5,10 @@ I Develop four ui screen using flutter
 ## Screenshots
 
 <div style="display:flex">
-    <img src="screenshots/s2.png" alt="Home Screen" width="200" height="400" style="margin-right: 30px;">
-    <img src="screenshots/s2.png" alt="Home Screen" width="200" height="400" style="margin-right: 30px">
+    <img src="screenshots/s1.png" alt="Home Screen" width="200" height="400" style="margin-right: 30px;">
+    <img src="screenshots/s2.png" alt="Home Screen" width="400" height="200" style="margin-right: 30px">
     <img src="screenshots/s3.png" alt="Home Screen" width="200" height="400" style="margin-right: 30px">
-    <img src="screenshots/s4.png" alt="Home Screen" width="200" height="400" style="margin-right: 30px">
+    <img src="screenshots/s4.png" alt="Home Screen" width="400" height="200" style="margin-right: 30px">
 </div>
 
 This project is a starting point for a Flutter application.
