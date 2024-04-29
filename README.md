@@ -1,8 +1,15 @@
-# ostad_assignment_02
+# Responsive Image Gallery
 
-A new Flutter project.
+I Develop four ui screen using flutter
 
-## Getting Started
+## Screenshots
+
+<div style="display:flex">
+    <img src="screenshots/s2.png" alt="Home Screen" width="200" height="400" style="margin-right: 30px;">
+    <img src="screenshots/s2.png" alt="Home Screen" width="200" height="400" style="margin-right: 30px">
+    <img src="screenshots/s3.png" alt="Home Screen" width="200" height="400" style="margin-right: 30px">
+    <img src="screenshots/s4.png" alt="Home Screen" width="200" height="400" style="margin-right: 30px">
+</div>
 
 This project is a starting point for a Flutter application.
 

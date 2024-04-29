@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ostad_assignment_02/screens/home_screen.dart';
+import 'package:responsive_image_gallery/screens/home_screen.dart';
 
 void main() {
   runApp(const MyApp());

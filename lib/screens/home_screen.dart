@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:ostad_assignment_02/materials/colors.dart';
-import 'package:ostad_assignment_02/screens/details_screen.dart';
+import 'package:responsive_image_gallery/materials/colors.dart';
+import 'package:responsive_image_gallery/screens/details_screen.dart';
 
 import '../data/card_list.dart';
 
