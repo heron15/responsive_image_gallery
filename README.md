@@ -1,6 +1,6 @@
 # Responsive Image Gallery
 
-I Develop four ui screen using flutter
+I Develop this app using flutter
 
 ## Screenshots
 
